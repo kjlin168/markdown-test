@@ -109,7 +109,7 @@ Amazon FreeRTOS](https://docs.aws.amazon.com/freertos/latest/userguide/getting-s
     your Corvette-F1 N25 board. Your host computer should be able to detect the
     board right away.
 
-	On Linux, issue the `dmesg` command in a command line terminal and verify a successful connection from a message like below:
+	On Linux, issue the `dmesg` command in a command line terminal and verify a successful connection from a message like below:<br>
 	<img src="media\Linux-connection.png" width="535" height="135">
           
 	>**NOTE** <br>
