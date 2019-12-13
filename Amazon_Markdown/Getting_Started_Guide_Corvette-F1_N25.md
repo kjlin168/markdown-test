@@ -33,7 +33,7 @@ Set Up the Andes Corvette-F1 N25 Hardware
 Connect the CON2 (UART) port on the Corvette-F1 N25 Development Board to a USB
 port on your computer using a micro USB cable.
 
-##Set Up Your Development Environment
+## Set Up Your Development Environment
 
 All tools necessary for developing Amazon FreeRTOS demo applications on the
 Corvette-F1 N25 Development Board are available at the [GitHub
