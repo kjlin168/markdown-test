@@ -81,7 +81,7 @@ To execute the ICEman program, change the current working directory to <span sty
     $ sudo ./ICEman -Z v5
 
 You will see the following message when ICEman is launched:<br>
-<img src="media\iceman-output.png" width="500" height="150">
+<img src="media\ICEman-output.png" width="500" height="150">
 
 >**NOTE**<br>
 >Be sure to keep ICEman running when you are debugging or burning a flash.
@@ -121,7 +121,7 @@ Amazon FreeRTOS](https://docs.aws.amazon.com/freertos/latest/userguide/getting-s
 	“Ports (COM and LPT)”. The figure below shows that a new entry “USB Serial
 	Port (COM3)” is listed in the Device Manager after the USB cable is plugged,
 	indicating a device has been attached to COM3 of the host computer.<br>
-	<img src="media\windows-connection.png" width="300" height="400">
+	<img src="media\Windows-connection.png" width="300" height="400">
 
 1.  Use the following settings to start a serial connection to either USB interface (i.e., ttyUSBx or COMx for Windows): 
 
